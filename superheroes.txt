@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Vigilante",
+    "edad": 25,
+    "planetaOrigen": "Tierra",
+    "debilidad": "radioactiva",
+    "poder": [
+      "Trepar paredes",
+      "Sentido aracanido",
+      "super Fuerza",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Redes Teleraña",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Duende Verde"
+    ]
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Ironman",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Vigilante",
+    "edad": 45,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Dependiente de la tecnilogia",
+    "poder": [
+      "Armadua blindada",
+      "Volar",
+      "Laseres"
+    ],
+    "habilidadEspecial": "Ingenieria avanzada",
+    "aliado": [
+      "Spiderman"
+    ],
+    "enemigo": [
+      "Mandarin"
+    ]
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odison",
+    "nombreSociedad": "Dios del trueno",
+    "edad": 1000,
+    "planetaOrigen": "Asgard",
+    "debilidad": "Destruir su martillo",
+    "poder": [
+      "Controlar el trueno",
+      "Fuerza sobrehumana",
+      "Inmortal"
+    ],
+    "habilidadEspecial": "Invocacion de tormentas",
+    "aliado": [
+      "Loki"
+    ],
+    "enemigo": [
+      "Hela"
+    ]
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Vigilante",
+    "edad": 33,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ninguna conocida",
+    "poder": [
+      "Maestria en combate",
+      "Espionaje"
+    ],
+    "habilidadEspecial": "Entrenamiento elite",
+    "aliado": [
+      "Hawkeye"
+    ],
+    "enemigo": [
+      "Taskmaster"
+    ]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Vigilante",
+    "edad": 40,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Control emocional",
+    "poder": [
+      "Fuerza bruta",
+      "Resistencia"
+    ],
+    "habilidadEspecial": "Regeneracion rapida",
+    "aliado": [
+      "Ironman"
+    ],
+    "enemigo": [
+      "Loki"
+    ]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitan America",
+    "nombreReal": "Steve Roger",
+    "nombreSociedad": "vigilante",
+    "edad": 103,
+    "planetaOrigen": "Tiera",
+    "debilidad": "No tiene habilidad sobrehumana",
+    "poder": [
+      "Fuerza aumentada",
+      "Agilidad"
+    ],
+    "habilidadEspecial": "Escudo indestructible",
+    "aliado": [
+      "Bucky Barnes"
+    ],
+    "enemigo": [
+      "Red Skull"
+    ]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Hechicero supremo",
+    "edad": 40,
+    "planetaOrigen": "Tiera",
+    "debilidad": "desconocida",
+    "poder": [
+      "Magia",
+      "Teletransportación"
+    ],
+    "habilidadEspecial": "Hechizos poderosos",
+    "aliado": [
+      "Wong"
+    ],
+    "enemigo": [
+      "Dormammu"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+[
+    {"id":4, "nombreSuperheroe":"Black Widow", "nombreReal":"Natasha Romanoff", "nombreSociedad":"Vigilante","edad":33,"planetaOrigen":"Tierra","debilidad":"Ninguna conocida","poder":["Maestria en combate","Espionaje"],"habilidadEspecial":"Entrenamiento elite","aliado":["Hawkeye"],"enemigo":["Taskmaster"]
+    },
+    {"id":5, "nombreSuperheroe":"Hulk", "nombreReal":"Bruce Banner","nombreSociedad":"Vigilante","edad":40,"planetaOrigen":"Tierra","debilidad":"Control emocional","poder":["Fuerza bruta","Resistencia"],"habilidadEspecial":"Regeneracion rapida","aliado":["Ironman"],"enemigo":["Loki"]
+    },
+    {"id":6, "nombreSuperheroe":"Capitan America", "nombreReal":"Steve Roger","nombreSociedad":"vigilante","edad":103,"planetaOrigen":"Tiera","debilidad":"No tiene habilidad sobrehumana","poder":["Fuerza aumentada","Agilidad"],"habilidadEspecial":"Escudo indestructible","aliado":["Bucky Barnes"],"enemigo":["Red Skull"]
+    },
+    {"id":7, "nombreSuperheroe":"Doctor Strange", "nombreReal":"Stephen Strange","nombreSociedad":"Hechicero supremo","edad":40,"planetaOrigen":"Tiera","debilidad":"desconocida","poder":["Magia","Teletransportación"],"habilidadEspecial":"Hechizos poderosos","aliado":["Wong"],"enemigo":["Dormammu"]
+    }
+]
